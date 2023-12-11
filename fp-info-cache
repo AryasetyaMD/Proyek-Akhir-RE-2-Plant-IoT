@@ -1,0 +1,57 @@
+12097933095204
+Sensors
+DHT11_Temperature_Humidity
+
+
+0
+3
+3
+Sensors
+DHT22_Temperature_Humidity
+
+
+0
+4
+4
+Sensors
+Logo_5mm
+
+
+0
+0
+0
+Sensors
+Logo_25mm
+
+
+0
+0
+0
+Sensors
+PIR_Motion_Sensor
+Pyroelectric Infrared Motion Sensor
+pyroelectric infrared motion sensor ir pir
+0
+3
+3
+Sensors
+Photoresistor
+
+
+0
+3
+3
+Sensors
+RF_Receiver_433_MHz
+433 MHz RF Receiver
+rf receiver 433 mhz
+0
+4
+4
+Sensors
+RF_Transmitter_433_MHz
+
+
+0
+3
+3
